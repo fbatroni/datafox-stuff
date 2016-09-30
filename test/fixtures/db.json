@@ -1,0 +1,17 @@
+[{
+  "id": "5130efe18989846a36005a94",
+  "name": "Neustar",
+  "corporate_names": ["Neustar, Inc.", "NeuStar Inc."],
+  "fka_names": [],
+  "products": [],
+  "urls": ["neustar.biz", "neusentry.biz", "browsermob.com"],
+  "acquirer": null
+}, {
+  "id": "5130eff98989846a3600a1c8",
+  "name": "DuPont",
+  "corporate_names": ["E.I. du Pont de Nemours and Company", "E. I. du Pont de Nemours and Company"],
+  "fka_names": [],
+  "products": [],
+  "urls": ["dupont.com", "www2.dupont.com", "mcm.dupont.com", "ekctech.com", "electronics.dupont.com"],
+  "acquirer": null
+}]

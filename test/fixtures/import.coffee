@@ -1,0 +1,17 @@
+module.exports =
+  [ { Name: 'Meraki', URL: 'cisco.com' },
+  { Name: 'Climate Corporation', URL: '' },
+  { Name: 'Intercom', URL: 'intercom.io' },
+  { Name: 'McKinsey', URL: '' },
+  { Name: 'ESPN', URL: 'espn.go.com' },
+  { Name: 'Lending Club', URL: '' },
+  { Name: 'Periscope', URL: '' },
+  { Name: 'Netc, LLC', URL: '' },
+  { Name: 'Zenpayroll', URL: '' },
+  { Name: 'Walmart', URL: 'walmart.com' },
+  { Name: 'Uber', URL: '' },
+  { Name: 'Mailbox', URL: '' },
+  { Name: 'Netezza Corporation', URL: '' },
+  { Name: 'Slack', URL: '' },
+  { Name: 'Datafox', URL: '' },
+  { Name: 'WePay', URL: 'https://www.wepay.com/' } ]

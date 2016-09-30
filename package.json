@@ -1,0 +1,30 @@
+{
+  "name": "datafox-company-importer",
+  "version": "1.0.0",
+  "description": "Command-line tool that imports companies from csv and attempts to find a match in our database. ",
+  "main": "app.coffee",
+  "scripts": {
+    "test": "mocha  --compilers coffee:coffee-script/register ",
+    "import": "coffee app.coffee"
+  },
+  "keywords": [
+    "data",
+    "csv",
+    "company-matching",
+    "import"
+  ],
+  "author": "Fritz G. Batroni",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "coffee-script": "^1.11.0",
+    "csvtojson": "^1.0.2",
+    "gulp": "^3.9.1",
+    "lodash": "^4.16.2",
+    "mocha": "^3.1.0",
+    "promised-csv": "^1.0.1",
+    "yargs": "^5.0.0"
+  }
+}
